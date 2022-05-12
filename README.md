@@ -1,4 +1,10 @@
-# Ingest data into CAS from ESP
+# Ingest data into CAS from ESP [DEPRECATED]
+
+## DEPRECATION NOTICE
+As of the 2020.1 release, SAS® Event Stream Processing no longer supports the loadStreams and espCluster action sets. This github repository has been deprecated and will no longer be updated.
+
+---
+
 
 How to use the SAS CAS _**loadStream**_ actionset to ingest data from an ESP running project into CAS.
 
